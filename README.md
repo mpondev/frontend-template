@@ -5,6 +5,9 @@ What does it include?
 - README.md
 - React + Vite
 - .gitignore (including macOS)
+- Reset CSS
+- Sass
+- responsive.scss
 
 # React + Vite
 
