@@ -4,6 +4,7 @@ What does it include?
 
 - README.md
 - React + Vite
+- .gitignore (including macOS)
 
 # React + Vite
 
