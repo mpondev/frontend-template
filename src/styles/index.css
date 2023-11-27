@@ -28,12 +28,16 @@
 }
 
 /* Typography */
-body {
+html {
   font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
   font-family: var(--typo-prim);
   color: var(--color-prim);
   background-color: var(--color-sec);
-  line-height: 1.7;
+  line-height: 1.5;
   font-weight: 400;
   box-sizing: border-box;
 }
@@ -83,7 +87,7 @@ i,
 b,
 u,
 em {
-  font-size: 1rem;
+  font-size: inherit;
   font-weight: inherit;
   font-style: inherit;
   text-decoration: none;
